@@ -1,10 +1,29 @@
 nav,
 .page-footer {
     background-color: #363A42;
+    color: #fff;
 }
 
-.task-rating {
-    font-size: 1.25rem;
+main {
+    background-color: #f2f5f8;
+}
+
+#about {
+    padding-top: 15px;
+}
+
+#customer-advocacy-idol {
+    padding-bottom: 15px;
+}
+
+h4 {
+    font-family: 'Lora', serif;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
 }
 
 i {

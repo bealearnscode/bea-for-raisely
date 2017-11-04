@@ -1,4 +1,9 @@
 nav,
-footer {
+.page-footer {
     background-color: #363A42;
+}
+
+i {
+    color: #fff;
+    display: inline-flex !important;
 }

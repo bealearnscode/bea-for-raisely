@@ -3,6 +3,10 @@ nav,
     background-color: #363A42;
 }
 
+.task-rating {
+    font-size: 1.25rem;
+}
+
 i {
     color: #fff;
     display: inline-flex !important;

@@ -1,3 +1,8 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
 nav,
 .page-footer {
     background-color: #363A42;
@@ -29,6 +34,13 @@ p {
 .so-cool {
     font-weight: 600;
     text-transform: uppercase;
+}
+
+.page-footer {
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
 }
 
 .footer-links li {

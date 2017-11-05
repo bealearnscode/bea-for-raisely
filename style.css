@@ -31,7 +31,13 @@ p {
     text-transform: uppercase;
 }
 
+.footer-links li {
+    display: inline-flex !important;
+    font-weight: normal;
+    padding-right: 3px;
+    padding-top: 3px;
+}
+
 i {
     color: #fff;
-    display: inline-flex !important;
 }
